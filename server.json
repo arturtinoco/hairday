@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": "1730819278785",
+      "name": "Geralda Lívia",
+      "when": "2024-11-05T17:00:00.000Z"
+    }
+  ]
 }
